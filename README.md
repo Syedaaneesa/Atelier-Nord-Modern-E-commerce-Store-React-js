@@ -19,15 +19,15 @@ A modern, responsive e-commerce storefront built with **TanStack Start**, **Reac
 
 ## 🛠️ Tech Stack
 
-* **React** — UI library
-* **TypeScript** — Type-safe development
-* **TanStack Start** — Full-stack React framework
-* **TanStack Router** — Type-safe file-based routing
-* **Vite** — Development and build tooling
-* **Nitro** — Server and deployment runtime
-* **Tailwind CSS** — Styling
-* **shadcn/ui** — Reusable UI components
-* **Lucide React** — Icons
+* **React** - UI library
+* **TypeScript** - Type-safe development
+* **TanStack Start** - Full-stack React framework
+* **TanStack Router** - Type-safe file-based routing
+* **Vite** - Development and build tooling
+* **Nitro** - Server and deployment runtime
+* **Tailwind CSS** - Styling
+* **shadcn/ui** - Reusable UI components
+* **Lucide React** - Icons
 
 ## 📁 Project Structure
 
@@ -151,7 +151,7 @@ Example:
 export const Route = createFileRoute("/shipping")({
   head: () => ({
     meta: [
-      { title: "Shipping & Delivery — Atelier Nord" },
+      { title: "Shipping & Delivery - Atelier Nord" },
       {
         name: "description",
         content: "Delivery times, carriers and duties for Atelier Nord orders.",
