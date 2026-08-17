@@ -170,6 +170,8 @@ The storefront is designed to work across:
 * Tablet
 * Mobile devices
 
+![ScreenShot](https://github.com/Syedaaneesa/Atelier-Nord-Modern-E-commerce-Store-React-js-/blob/main/Atelier-Nord-Considered-Wardrobe-Essentials-08-17-2026_08_25_PM.png)
+
 ## 📄 License
 
 This project is intended for portfolio and development purposes. Add your preferred license before distributing the project publicly.
